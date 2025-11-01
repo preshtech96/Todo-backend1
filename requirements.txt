@@ -5,3 +5,5 @@ requests
 python-multipart
 pymongo
 motor
+pydantic
+
